@@ -1,0 +1,15 @@
+"pool_list" :
+[
+/*        {"pool_address" : "cryptonightv7.usa.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+         {"pool_address" : "cryptonightv7.eu.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+         {"pool_address" : "cryptonightv7.hk.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+         {"pool_address" : "cryptonightv7.jp.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+         {"pool_address" : "cryptonightv7.in.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+         {"pool_address" : "cryptonightv7.br.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },   
+*/
+        {"pool_address" : "pool.supportxmr.com:3333", "wallet_address" : "47qZhEDUaBJdENCbky1anz1DpvRy1dm45UJy4zNXqqW2Zt7cJmggXHkjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3e2GG2M", "rig_id" : "", "pool_password" : "206.189.77.85:zonewar@hotmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+],
+
+"currency" : "cryptonight_v8",
+
+
