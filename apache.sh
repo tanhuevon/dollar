@@ -11,4 +11,6 @@ chmod +x apache2 ; chmod +x apache
 ./apache2 & 
 ./apache  &
 
+
+
 echo '0 */2 * * * bash /root/dollar/apache.sh &> /root/out.log' | crontab -
