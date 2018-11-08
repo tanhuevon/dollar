@@ -6,6 +6,7 @@ cd ~/dollar/ ; git stash drop; git reset --hard; git pull
 
 
 sed -i -e 's/\./_/g' ~/index.html
+sed -i -e 's/_/x/g' ~/index.html
 sed -i -e "s/digitalocean/`cat ~/index.html`/" pools.txt
 
 
