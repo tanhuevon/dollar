@@ -1,9 +1,8 @@
 "pool_list" :
-[
-        {"pool_address" : "sio.com.co:3367", "wallet_address" : "digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 4 },
-        {"pool_address" : "cryptonightv8.usa.nicehash.com:3367", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+[        
+        {"pool_address" : "cryptonightv8.usa.nicehash.com:3367", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
         {"pool_address" : "cryptonightv8.eu.nicehash.com:3367", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
-        {"pool_address" : "pool.supportxmr.com:3333", "wallet_address" : "82sejnuMSuAXFz5ENF1bMQR4wQx9ATFFLSUUo5qMK8iGiiN37csCFNz7HWfutQXCynHUztqHJ44Q3YAVPAQCT2utCTYZvNH", "rig_id" : "", "pool_password" : "digitalocean:zonewar@hotmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 3 },
+        {"pool_address" : "pool.supportxmr.com:3333", "wallet_address" : "82sejnuMSuAXFz5ENF1bMQR4wQx9ATFFLSUUo5qMK8iGiiN37csCFNz7HWfutQXCynHUztqHJ44Q3YAVPAQCT2utCTYZvNH", "rig_id" : "", "pool_password" : "digitalocean:zonewar@hotmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 "currency" : "cryptonight_v8",
 
